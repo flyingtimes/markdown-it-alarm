@@ -39,5 +39,13 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "version": "1.0.4"
+  "version": "1.0.5",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flyingtimes/markdown-it-alarm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/flyingtimes/markdown-it-alarm/issues"
+  },
+  "homepage": "https://github.com/flyingtimes/markdown-it-alarm#readme"
 }
