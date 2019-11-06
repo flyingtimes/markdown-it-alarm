@@ -1,0 +1,43 @@
+{
+  "_from": "markdown-it-alarm@^1.0.1",
+  "_inBundle": false,
+  "_integrity": "sha512-Qahj2EfDmZJMjoioQ4kN1y6ABVwpThPHUH5BLQetsyWiV8z7QGQxZKvs3IMLmrM3wV3GbU7lfAXU4Ct9wgS37Q==",
+  "_location": "/markdown-it-alarm",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "markdown-it-alarm@^1.0.1",
+    "name": "markdown-it-alarm",
+    "escapedName": "markdown-it-alarm",
+    "rawSpec": "^1.0.1",
+    "saveSpec": null,
+    "fetchSpec": "^1.0.1"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/markdown-it-alarm/-/markdown-it-alarm-1.0.1.tgz",
+  "_shasum": "316f6fa6e0c1fce1447c2388736fd3766d514eb1",
+  "_spec": "markdown-it-alarm@^1.0.1",
+  "_where": "/Users/clark/code/my-npm-startup-package",
+  "author": "flyingtimes",
+  "bundleDependencies": false,
+  "dependencies": {},
+  "deprecated": false,
+  "description": "a alarm for markdown it module",
+  "devDependencies": {},
+  "keywords": [
+    "alarm",
+    "markdown-it",
+    "markdown-it-alarm"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "markdown-it-alarm",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.4"
+}
